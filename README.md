@@ -82,12 +82,8 @@ Here are some screenshots of the application:
 
 ## Contributing
 
-Contributions are welcome! Please read the [contributing guidelines](CONTRIBUTING.md) before submitting a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Contributions are welcome! Contact us on gmail for contribution
 
 ## Contact
 
-For any questions or suggestions, please contact [rk22pp5@gmail.com](mailto:rk22pp5@gmail.com).
+For any questions or suggestions, please contact [mauryasaurabh264@gmail.com](mauryasaurabh264@gmail.com).
