@@ -66,19 +66,23 @@ Here are some screenshots of the application:
 
 ### Home Page
 
-![Home Page](Outputs/Home.png)
+<img width="1919" height="1079" alt="Screenshot 2025-07-27 170807" src="https://github.com/user-attachments/assets/c4a0d68a-cbaa-48f6-8609-8e4d0c17b5d2" />
+
 
 ### About Page
 
-![About Page](Outputs/About.png)
+<img width="1919" height="1079" alt="Screenshot 2025-07-27 171608" src="https://github.com/user-attachments/assets/1703cf65-8664-4254-a538-7d51400671f3" />
+
 
 ### Prediction Form
 
-![Prediction Form](Outputs/Predict.png)
+<img width="1919" height="1079" alt="Screenshot 2025-07-27 170747" src="https://github.com/user-attachments/assets/103e7576-d621-4e09-9604-a9ff8b3157bd" />
+
 
 ### Result Page
 
-![Result Page](Outputs/Result.png)
+<img width="1919" height="1079" alt="Screenshot 2025-07-27 170738" src="https://github.com/user-attachments/assets/68933d12-7bcf-4a56-9f8e-e6e3e4c0cce5" />
+
 
 ## Contributing
 
