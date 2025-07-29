@@ -1,0 +1,11 @@
+date,quarter,department,day,team,targeted_productivity,smv,wip,over_time,incentive,idle_time,idle_men,no_of_style_change,no_of_workers,actual_productivity
+1/17/2015,Quarter3,sweing,Saturday,4,0.7,22.52,825.0,10170,50,0.0,0,0,56.5,0.7005417
+1/10/2015,Quarter2,sweing,Saturday,2,0.8,28.08,749.0,10350,63,0.0,0,0,57.5,0.800594466
+1/27/2015,Quarter4,finishing ,Tuesday,7,0.5,4.15,,960,0,0.0,0,0,8.0,0.803541667
+1/3/2015,Quarter1,finishing ,Saturday,10,0.7,4.15,,960,0,0.0,0,0,8.0,0.7018125
+1/13/2015,Quarter2,sweing,Tuesday,8,0.8,25.9,1211.0,10260,60,0.0,0,0,57.0,0.850252525
+2/11/2015,Quarter2,finishing,Wednesday,8,0.35,4.15,,1440,0,0.0,0,0,12.0,0.994375
+1/5/2015,Quarter1,sweing,Monday,5,0.6,21.98,666.0,6960,23,0.0,0,0,58.0,0.600028736
+1/29/2015,Quarter5,finishing ,Thursday,10,0.8,3.94,,1200,0,0.0,0,0,10.0,0.85695
+2/3/2015,Quarter1,finishing ,Tuesday,1,0.8,3.94,,1200,0,0.0,0,0,10.0,0.99485
+2/23/2015,Quarter4,finishing,Monday,2,0.8,5.13,,960,0,0.0,0,0,8.0,0.36871875
